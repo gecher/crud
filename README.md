@@ -15,13 +15,13 @@ Follow these instructions to get the project up and running on your local machin
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/abdellah-belcaid/React-Crud-Json-Server.git
+   git clone https://github.com/gecher/crud.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd react-product-manager
+   cd crud
    ```
 
 3. Install the project dependencies:

@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Product 1",
+      "price": 10,
+      "quantity": 20,
+      "checked": false
+    },
+    {
+      "id": "2",
+      "name": "Product 2",
+      "price": 15,
+      "quantity": 15,
+      "checked": true
+    },
+    {
+      "id": "ebc3",
+      "name": "tes",
+      "price": "11",
+      "quantity": "1",
+      "checked": true
+    }
+  ]
+}
